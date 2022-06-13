@@ -1,0 +1,12 @@
+D:\jay\rough1\project\Bal\bin\Debug\netcoreapp3.1\Bal.deps.json
+D:\jay\rough1\project\Bal\bin\Debug\netcoreapp3.1\Bal.dll
+D:\jay\rough1\project\Bal\bin\Debug\netcoreapp3.1\Bal.pdb
+D:\jay\rough1\project\Bal\bin\Debug\netcoreapp3.1\Dal.dll
+D:\jay\rough1\project\Bal\bin\Debug\netcoreapp3.1\Dal.pdb
+D:\jay\rough1\project\Bal\obj\Debug\netcoreapp3.1\Bal.csprojAssemblyReference.cache
+D:\jay\rough1\project\Bal\obj\Debug\netcoreapp3.1\Bal.AssemblyInfoInputs.cache
+D:\jay\rough1\project\Bal\obj\Debug\netcoreapp3.1\Bal.AssemblyInfo.cs
+D:\jay\rough1\project\Bal\obj\Debug\netcoreapp3.1\Bal.csproj.CoreCompileInputs.cache
+D:\jay\rough1\project\Bal\obj\Debug\netcoreapp3.1\Bal.csproj.CopyComplete
+D:\jay\rough1\project\Bal\obj\Debug\netcoreapp3.1\Bal.dll
+D:\jay\rough1\project\Bal\obj\Debug\netcoreapp3.1\Bal.pdb

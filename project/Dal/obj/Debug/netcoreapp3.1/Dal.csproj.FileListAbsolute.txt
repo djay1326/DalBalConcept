@@ -1,0 +1,12 @@
+D:\jay\rough1\project\Dal\bin\Debug\netcoreapp3.1\Dal.deps.json
+D:\jay\rough1\project\Dal\bin\Debug\netcoreapp3.1\Dal.runtimeconfig.json
+D:\jay\rough1\project\Dal\bin\Debug\netcoreapp3.1\Dal.runtimeconfig.dev.json
+D:\jay\rough1\project\Dal\bin\Debug\netcoreapp3.1\Dal.dll
+D:\jay\rough1\project\Dal\bin\Debug\netcoreapp3.1\Dal.pdb
+D:\jay\rough1\project\Dal\obj\Debug\netcoreapp3.1\Dal.AssemblyInfoInputs.cache
+D:\jay\rough1\project\Dal\obj\Debug\netcoreapp3.1\Dal.AssemblyInfo.cs
+D:\jay\rough1\project\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.CoreCompileInputs.cache
+D:\jay\rough1\project\Dal\obj\Debug\netcoreapp3.1\Dal.dll
+D:\jay\rough1\project\Dal\obj\Debug\netcoreapp3.1\Dal.pdb
+D:\jay\rough1\project\Dal\obj\Debug\netcoreapp3.1\Dal.genruntimeconfig.cache
+D:\jay\rough1\project\Dal\obj\Debug\netcoreapp3.1\Dal.csprojAssemblyReference.cache
